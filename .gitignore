@@ -1,0 +1,4 @@
+src/test/resources/config/user.properties
+target
+.idea
+src/test/resources/testData/Login.xlsx
